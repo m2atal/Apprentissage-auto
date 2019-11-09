@@ -1,2 +1,2 @@
 # Apprentissage-auto
-CM/TD/TP Apprentissage-automatique en langue
+CM/TD/TP Apprentissage automatique en langue
